@@ -1,24 +1,24 @@
 <h1 align="center">👋 Hi, I'm Florence Namayanja</h1>
 
 <p align="center">
-  💻 ALX Learner | 🌍 Passionate About EdTech | 🌱 Future Full-Stack Developer
+  💻 ALX Learner | Passionate About Technology | Future Full-Stack Developer
 </p>
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 I am a learner of the ALX Software Engineering program and I want to revamp my GitHub profile to stand out from the crowd in my job search.
 
 This is why I started with software engineering:  
-💡 I’ve always been passionate about problem-solving and curious about how websites work.
+I’ve always been passionate about problem-solving and curious about how websites work.
 
 What I am passionate about and what inspires me:  
-🔥 Building tools that improve education access, solving real-world challenges, and empowering communities with technology.
+Building tools that improve education access, solving real-world challenges, and empowering communities with technology.
 
 ---
 
-## 🎯 My Vision
+##  My Vision
 
 My aim is to become a full-stack developer focused on educational technology.  
 That’s why I would like to work on:  
@@ -39,15 +39,15 @@ That’s why I would like to work on:
 
 ---
 
-## 📌 Let's Connect
+## Let's Connect
 
-- 💬 Email: florence.dev@gmail.com  
-- 🌐 LinkedIn: [Your LinkedIn Profile](#)  
-- 📝 Portfolio (coming soon): [GitHub Pages or custom domain](#)
+-  Email: florencenamayanja66@gmail.com  
+-  LinkedIn: www.linkedin.com/in/florence-namayanja-1125a7267 
+
 
 ---
 
-## 📌 Pinned Repositories
+## Pinned Repositories
 
 > I will be pinning my top projects here as I build them. Stay tuned!
 
